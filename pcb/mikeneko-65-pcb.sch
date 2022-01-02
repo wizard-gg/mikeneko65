@@ -186,18 +186,6 @@ D-
 Text GLabel 5750 1600 0    50   Input ~ 0
 D+
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U2
-U 1 1 5F26004F
-P 2300 5050
-F 0 "U2" H 1450 4200 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 1450 4100 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 2300 5050 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2300 5050 50  0001 C CNN
-F 4 "C44854" H 2300 5050 50  0001 C CNN "LCSC Part #"
-	1    2300 5050
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R3
 U 1 1 5F259605
 P 1100 4650
@@ -823,6 +811,17 @@ F 2 "Capacitor_SMD:C_0805_2012Metric" H 1538 4850 50  0001 C CNN
 F 3 "~" H 1500 5000 50  0001 C CNN
 F 4 "C28323" H 1500 5000 50  0001 C CNN "LCSC Part #"
 	1    1500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-MU U2
+U 1 1 61D221A9
+P 2300 5050
+F 0 "U2" H 2300 3161 50  0000 C CNN
+F 1 "ATmega32U4-MU" H 2300 3070 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" H 2300 5050 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 2300 5050 50  0001 C CNN
+	1    2300 5050
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
