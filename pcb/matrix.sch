@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:bakeneko-65-pcb-cache
+LIBS:mikeneko-65-pcb-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title "Bakeneko 65 V3"
+Title "Mikeneko 65 V3"
 Date "2020-08-01"
 Rev "1"
 Comp ""

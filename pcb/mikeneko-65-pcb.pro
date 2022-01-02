@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=bakeneko-65-pcb.net
+LastNetListRead=Mikeneko-65-pcb.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0

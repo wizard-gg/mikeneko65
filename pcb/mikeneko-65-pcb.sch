@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:bakeneko-65-pcb-cache
+LIBS:mikeneko-65-pcb-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
-Title "Bakeneko 65 V3"
+Title "Mikeneko 65 V3"
 Date "2020-08-01"
 Rev "1"
 Comp ""
@@ -427,7 +427,7 @@ U 1 1 5F4C9CCE
 P 2050 1700
 F 0 "J2" H 1721 1796 50  0000 R CNN
 F 1 "AVR-ISP-6" H 1721 1705 50  0000 R CNN
-F 2 "bakeneko:ISP" V 1800 1750 50  0001 C CNN
+F 2 "mikeneko:ISP" V 1800 1750 50  0001 C CNN
 F 3 " ~" H 775 1150 50  0001 C CNN
 	1    2050 1700
 	1    0    0    -1  

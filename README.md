@@ -1,8 +1,8 @@
-# Bakeneko 65 V3
+# Mikeneko 65 V3
 
 A simple 65% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini. See also the [introduction video](https://youtu.be/o677NcIUri4).
 
-![Bakeneko 65](./image/bakeneko-65.jpg)
+![Mikeneko 65](./image/mikeneko-65.jpg)
 
 ## Features
 
@@ -14,7 +14,7 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 
 ## Layouts
 
-![Bakeneko 65 layouts](./image/keyboard-layout.png)
+![Mikeneko 65 layouts](./image/keyboard-layout.png)
 
 ## Specs
 
@@ -39,7 +39,7 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
   - Will be added and updated as needed
 - Discord: https://discord.gg/fMY96TeEwV
   - Have fun with community members
-  - Talk about Bakeneko builds and mods, and share your works
+  - Talk about Mikeneko builds and mods, and share your works
   - You can also contact me from there
 
 ## Special thanks to
