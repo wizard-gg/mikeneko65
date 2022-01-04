@@ -1,15 +1,20 @@
 # Mikeneko 65 V3
 
-A simple 65% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini. See also the [introduction video](https://youtu.be/o677NcIUri4).
+A simple 65% keyboard for DIYers. This project was derived from [kkatano's Bakeneko 65](https://github.com/kkatano/bakeneko-65).
 
 ![Mikeneko 65](./image/mikeneko-65.jpg)
+
+## Differences between Mikeneko 65 and Bakeneko 65
+
+- Added support for PCB screw ins stabilizer
+- Changed MCU to ATmega32U4-MU(R) to cope with MCU supply shortage
 
 ## Features
 
 - Single piece tray case
 - O-ring gasket mount (Friction fit)
-- [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard)
-- QMK firmware and VIA
+- [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard) or [Simplified Daughterboard](https://github.com/kb-elmo/simplified-daughterboard)
+- QMK firmware and VIA (For now, you can use Bakeneko 65's firmware as is)
 - PCB designed with KiCAD 5.1.4
 
 ## Layouts
@@ -30,30 +35,22 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 ## Notes
 
 - All files are to be used at your own risk
-- As for stabilizers, only PCB snap ins are supported
+- As for stabilizers, both PCB snap ins and screw ins are supported
 
 ## Resources
 
 - Documents: https://drive.google.com/drive/folders/1tddSihOS8Pgf1lTQOjHohYCl8efxXIeH
+  - For now, you can refer Bakeneko 65's documents as is
   - Parts guide and other useful information
-  - Will be added and updated as needed
-- Discord: https://discord.gg/fMY96TeEwV
+- Discord: https://discord.com/channels/927936241805189171/
   - Have fun with community members
   - Talk about Mikeneko builds and mods, and share your works
   - You can also contact me from there
 
 ## Special thanks to
 
-- **Elaine** for [Unikorn](https://geekhack.org/index.php?topic=98587.50). Allowed me to publish the Unikorn-inspired case as open source and encouraged me
-- Of course, I also show my respect and gratitude to **yuktsi**
-- **coarse** for PCB review and kind support. His great work has refined the PCB well
+- **kkatano** Open-sourced Bakeneko 65 and answered my questions in his community
+- People who supported the development of Bakeneko series
 
 ## Also I should mention
-
-- **OTD** for 356 Mini. Origin of O-ring gasket mount style
-- **Evy** for [Plain60 series](https://github.com/evyd13/plain60-c). I used it as a reference for my PCB design. They also answered my miscellaneous questions
-- **ai03** for [MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid). Also got a lot of help from his discord server
-- **overset** for [JP01](https://github.com/overset/JP01). The idea of publishing the case design on Onshape. After seeing their great work I switched from fusion360 to Onshape
-- **Rhuk** gave me a lot of advice on keyboard design and manufacturing
-- **Maker Keyboards** suggested adding a plate cutout to remove the PCB using a keycap puller
-- And many community members for giving me advice and feedback, thanks!
+- Many keyboard community members for giving me advice and feedback, thanks!
