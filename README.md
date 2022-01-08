@@ -4,10 +4,16 @@ A simple 65% keyboard for DIYers. This project was derived from [kkatano's Baken
 
 ![Mikeneko 65](./image/mikeneko-65.jpg)
 
-## Differences between Mikeneko 65 V3 and Bakeneko 65 V3
+## Updates
+
+### Differences between Mikeneko 65 V3 and V4
+
+- Switched pcb style from soldering to hotswap
+
+### Differences between Bakeneko 65 V3 and Mikeneko 65 V3
 
 - Added support for PCB screw ins stabilizer
-- Changed MCU to ATmega32U4-MU(R) to cope with MCU supply shortage
+- Switched MCU to ATmega32U4-MU(R) to cope with MCU supply shortage
 
 ## Features
 
@@ -19,7 +25,7 @@ A simple 65% keyboard for DIYers. This project was derived from [kkatano's Baken
 
 ## Layouts
 
-![Mikeneko 65 layouts](./image/keyboard-layout.png)
+![Mikeneko 65 V4 layouts](./image/keyboard-layout.png)
 
 ## Specs
 
