@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:mikeneko-65-pcb-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -433,21 +432,21 @@ Text GLabel 2900 4000 2    50   Input ~ 0
 SCK
 Text GLabel 2900 4100 2    50   Input ~ 0
 MOSI
-Text GLabel 2900 5200 2    50   Input ~ 0
-COL10
-Text GLabel 2900 5300 2    50   Input ~ 0
-COL11
-Text GLabel 2900 5400 2    50   Input ~ 0
-COL12
-Text GLabel 2900 5600 2    50   Input ~ 0
-COL13
-Text GLabel 2900 5500 2    50   Input ~ 0
-COL14
 Text GLabel 2900 5700 2    50   Input ~ 0
-ROW1
+COL10
 Text GLabel 2900 5800 2    50   Input ~ 0
-ROW0
+COL11
 Text GLabel 2900 4500 2    50   Input ~ 0
+COL12
+Text GLabel 2900 4400 2    50   Input ~ 0
+COL13
+Text GLabel 2900 4300 2    50   Input ~ 0
+COL14
+Text GLabel 2900 5300 2    50   Input ~ 0
+ROW1
+Text GLabel 2900 5100 2    50   Input ~ 0
+ROW0
+Text GLabel 2900 5600 2    50   Input ~ 0
 ROW2
 Text GLabel 2900 4800 2    50   Input ~ 0
 ROW3
@@ -701,14 +700,6 @@ Wire Wire Line
 Wire Wire Line
 	2800 3900 2900 3900
 Wire Wire Line
-	2900 4000 2800 4000
-Wire Wire Line
-	2800 4100 2900 4100
-Wire Wire Line
-	2900 4200 2800 4200
-Wire Wire Line
-	2800 4300 2900 4300
-Wire Wire Line
 	2900 4400 2800 4400
 Wire Wire Line
 	2800 4500 2900 4500
@@ -815,7 +806,7 @@ F 4 "C28323" H 1400 5350 50  0001 C CNN "LCSC Part #"
 	1    1400 5350
 	1    0    0    -1  
 $EndComp
-Text GLabel 2900 5100 2    50   Input ~ 0
+Text GLabel 2900 5500 2    50   Input ~ 0
 COL9
 Wire Wire Line
 	2800 5100 2900 5100
@@ -823,6 +814,14 @@ Text GLabel 2900 6300 2    50   Input ~ 0
 COL5
 Wire Wire Line
 	2900 6300 2800 6300
-NoConn ~ 2900 4300
-NoConn ~ 2900 4400
+Wire Wire Line
+	2900 4300 2800 4300
+NoConn ~ 2900 5200
+NoConn ~ 2900 5400
+Wire Wire Line
+	2900 4000 2800 4000
+Wire Wire Line
+	2900 4100 2800 4100
+Wire Wire Line
+	2900 4200 2800 4200
 $EndSCHEMATC
