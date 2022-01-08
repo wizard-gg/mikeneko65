@@ -1,10 +1,10 @@
-# Mikeneko 65 V3
+# Mikeneko 65 V4
 
 A simple 65% keyboard for DIYers. This project was derived from [kkatano's Bakeneko 65](https://github.com/kkatano/bakeneko-65).
 
 ![Mikeneko 65](./image/mikeneko-65.jpg)
 
-## Differences between Mikeneko 65 and Bakeneko 65
+## Differences between Mikeneko 65 V3 and Bakeneko 65 V3
 
 - Added support for PCB screw ins stabilizer
 - Changed MCU to ATmega32U4-MU(R) to cope with MCU supply shortage

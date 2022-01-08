@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title "Mikeneko 65 V3"
+Title "Mikeneko 65 V4"
 Date "2020-08-01"
 Rev "1"
 Comp ""
